@@ -34,4 +34,3 @@ variable "public_subnet_a_cidr_block" {
   default = "10.0.1.0/24"
 }
 
-# arn:aws:iam::812767353779:policy/github-oidc-terraform-aws-tfstates-chinedu-access
