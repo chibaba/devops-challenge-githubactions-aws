@@ -41,7 +41,7 @@ resource "aws_instance" "prod_node" {
   }
   
   tags = {
-    Name = "prod-node"
+    Name = "prod-node1"
   }
 
   
